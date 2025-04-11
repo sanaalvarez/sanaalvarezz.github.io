@@ -1,0 +1,27 @@
+ <style>
+        h1{
+            color:pink;
+        }
+        h2{
+            text-align:center;
+            text-decoration:underline;
+            font-style:italic;
+          
+            background-color:pink;
+        }
+        #pic{
+            float:left;
+            margin-right:25px;
+        }
+        #det{
+            border:20px ridge pink;
+            font-family:cursive;
+            
+        }
+        #address{
+            clear:both;
+      
+        }
+
+            
+        </style>
